@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" > '*\'"'"Best School"'"\'*$?*****:)'
+rintf "Best School\n" > '*\'"Best School"'\*\$\?\*\*\*\*\*:)'
